@@ -1,0 +1,22 @@
+
+.coin-input{
+  width: 300px;
+  padding: 20px;
+  margin-left: 37%;
+  border: none;
+  border-radius: 50px;
+  background: linear-gradient(-225deg,
+    #c5c5c3 0%,
+    #9c9c9c 48%,
+    #858482 100%);
+  color: white;
+  outline: none;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.coin-input::placeholder{
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+}

@@ -1,0 +1,9 @@
+.header {
+    background-color: #185c8a;
+    color: #138ce2;
+    display: flex;
+  }
+  ul {
+    list-style: none;
+  }
+ 
